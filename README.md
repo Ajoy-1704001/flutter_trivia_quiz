@@ -1,16 +1,4 @@
-# flutter_trivia
+# flutter_trivia_quiz
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Ajoy-1704001/flutter_trivia_quiz/assets/57573642/74035ebc-d546-40ee-b298-3ccc2a1b3da0" width="18%"></img> <img src="https://github.com/Ajoy-1704001/flutter_trivia_quiz/assets/57573642/3e110d5c-2654-408a-a826-a7841b480c7f" width="18%"></img> <img src="https://github.com/Ajoy-1704001/flutter_trivia_quiz/assets/57573642/2d55f42e-0629-4fe1-928e-3cb225ab818d" width="18%"></img> <img src="https://github.com/Ajoy-1704001/flutter_trivia_quiz/assets/57573642/9f9c08c5-aabd-47e1-8863-a3ba5b841460" width="18%"></img> <img src="https://github.com/Ajoy-1704001/flutter_trivia_quiz/assets/57573642/30d7458d-a91a-4dfd-ab77-4da666a64a0c" width="18%"></img> 
